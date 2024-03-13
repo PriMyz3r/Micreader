@@ -1,10 +1,12 @@
 # Micreader
 This repository contains a Python application that converts speech to text using the Google Speech Recognition API
 
-**Important** You need to have python already install on your device
+# Important 
+You need to have python already install on your device
 can be run using console command or VScode or other compiler
 
-**Controls** You can use the button displayed or press ctrl + alt + s on your keyboard
+# Controls 
+You can use the button displayed or press ctrl + alt + s on your keyboard
 enjoy ;)
 
 ---
