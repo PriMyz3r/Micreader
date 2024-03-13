@@ -4,6 +4,9 @@ This repository contains a Python application that converts speech to text using
 **Important** You need to have python already install on your device
 can be run using console command or VScode or other compiler
 
+**Controls** You can use the button displayed or press ctrl + alt + s on your keyboard
+enjoy ;)
+
 ---
 
 # Speech-to-Text Application with Browser Interaction
